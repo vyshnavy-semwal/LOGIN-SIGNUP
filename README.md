@@ -2,7 +2,7 @@
 
 A responsive and user-friendly login/signup interface built with React.js and CSS. This project focuses on frontend form handling, validation, and clean UI design.
 
-## 🛠️ Features
+## Features
 
 - React.js-based login and signup forms
 - Real-time form validation and error messages
