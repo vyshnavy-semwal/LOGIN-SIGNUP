@@ -10,7 +10,7 @@ A responsive and user-friendly login/signup interface built with React.js and CS
 - Responsive design for mobile and desktop
 - Clean and modern UI using CSS
 
-Tech Stack
+Tech Stac
 
 - **React.js** – Frontend framework
 - **CSS** – Styling and layout
